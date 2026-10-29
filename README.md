@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexis Quiñonez 👋</h1>
 
 <p align="center">
-  <b>Senior Mobile Engineer</b> · React Native · Flutter · iOS · Android<br/>
+  <b>Senior Mobile Engineer</b> · React Native · Flutter · iOS · Android · AI Native<br/>
   <i>Mobile is my focus. <b>Building</b> is my passion.</i>
 </p>
 
